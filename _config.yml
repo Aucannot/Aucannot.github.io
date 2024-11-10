@@ -56,12 +56,15 @@ plugins:
 
 author:
   name   : "Auc"
-  avatar : "/assets/images/pic.jpg"
+  avatar : "/assets/images/pic.png"
   bio    : "22 years old, accomplished nothing, caffeine addiction"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Aucannot"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "stdio.h@bupt.edu.cn" 
 
 footer:
   links:
