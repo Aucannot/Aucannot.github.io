@@ -16,7 +16,7 @@
 title: Nothing
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  出于好奇心做的博客，没什么好看的
+  出于好奇心做的博客，没什么好看的.
 github_username: Aucannot
 minimal_mistakes_skin: default
 search: true
@@ -56,13 +56,18 @@ plugins:
 
 author:
   name   : "Auc"
-  avatar : "/assets/images/pic.jpg"
+  avatar : "/assets/images/pic.png"
   bio    : "22 years old, accomplished nothing, caffeine addiction"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Aucannot"
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:stdio.h@bupt.edu.cn"
+    - label: "QQ"
+      icon: "fab fa-fw fa-qq"
+      url: "/contact-qq/"
 footer:
   links:
     - label: "GitHub"
